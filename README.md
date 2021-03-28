@@ -1,4 +1,3 @@
-# register
 Registro da Shine
 
 Sistema Distrubuidor de Cargo
