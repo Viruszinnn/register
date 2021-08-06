@@ -1,4 +1,4 @@
-Registro da Shine
+Registro da Antiga Shine v11
 
 Sistema Distrubuidor de Cargo
 
